@@ -1,0 +1,93 @@
+body,
+html {
+  font-family: 'Montserrat', sans-serif;
+  background: url(bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.container-fluid {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100vh;
+}
+
+.navbar {
+  margin: 0 75px;
+  padding: 8px 0 0;
+}
+
+.fa-phoenix-squadron {
+  color: #ff5722;
+  font-size: 3rem;
+  margin-left: 65px;
+}
+
+nav .navbar-nav li a {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+nav .navbar-nav li a:hover {
+  color: #ff5722;
+}
+
+.content-box {
+  margin: 0 270px;
+  padding: 75px 0;
+}
+
+.story-title {
+  font-size: 4rem;
+  margin: 0 75px;
+}
+
+.story-subtitle {
+  font-size: 1.635rem;
+  margin: 16px 75px;
+}
+
+.email-form-title {
+  font-size: 1.2rem;
+  margin: 0 120.406px;
+  padding: 0 47.5px 20px;
+}
+
+/*.email-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 950px;
+  padding: 0.85rem;
+}*/
+
+.email-input {
+  border: none;
+  border-radius: 1.5rem;
+  width: 18rem;
+  height: 4rem;
+  padding: 15px 25px;
+}
+
+.btn {
+  border-style: inset;
+  border-radius: 1.5rem;
+  color: #fff;
+  font-size: 20px;
+  background-color: #ff5722;
+  height: 4rem;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #DE3329;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+
+
